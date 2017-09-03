@@ -1,0 +1,6 @@
+G:\VS WorkSpace\WebServer\WebServer\bin\WebServer.dll.config
+G:\VS WorkSpace\WebServer\WebServer\bin\WebServer.dll
+G:\VS WorkSpace\WebServer\WebServer\bin\WebServer.pdb
+G:\VS WorkSpace\WebServer\WebServer\obj\Release\WebServer.csprojResolveAssemblyReference.cache
+G:\VS WorkSpace\WebServer\WebServer\obj\Release\WebServer.dll
+G:\VS WorkSpace\WebServer\WebServer\obj\Release\WebServer.pdb
